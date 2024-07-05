@@ -4,7 +4,7 @@
 
 ---
 - 🌱 I’m currently learning **Javascript, React**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/filipp-pljassunov-4a9087182/), [Email](mailto:filippljassunov@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/filipp-pljassunov), [Email](mailto:filippljassunov@gmail.com)
 
 
 ---
